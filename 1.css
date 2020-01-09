@@ -1,0 +1,23 @@
+body{
+    background-color:#444444;
+    color:white;
+    font-family: 'Nanum Pen Script', cursive;
+}
+/*
+p{
+    color:red;
+}
+*/
+div{
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1{
+    font-size: 40px;
+    font-weight: normal;
+    color: black;
+}
+.chapter{
+    font-size: 
+}
