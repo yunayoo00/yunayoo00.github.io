@@ -1,0 +1,50 @@
+body{
+    /*background-color:#444444;*/
+    background-image: url(../img2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color: black;
+    font-family: 'Nanum Pen Script', cursive;
+}
+/*
+p{
+    color:red;
+}
+div{
+    background-image: url(../img2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+*/
+h1{
+    font-size: 40px;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+}
+.name{
+    font-size: 20px;
+    color: peru;
+    text-align: center;
+}
+.chapter{
+    font-size: 20px;
+}
+.chapter h2{
+    font-size: 30px;
+}
+#chapter1 ul{
+    list-style-type: disc;
+    list-style-position: inside;
+}
+#chapter2 ul{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+#chapter3 ul{
+    list-style-type: square;
+    list-style-position: inside;
+}
+#hello{
+    text-decoration: underline;
+}
